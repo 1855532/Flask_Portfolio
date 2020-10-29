@@ -49,6 +49,8 @@ We used GitHub to share our code and make adjustments without risking our main f
 We initially downloaded intelliJ because Repl.it was causing problems. We downloaded and followed the instructions from Dane all week.
 ## Usage of Flasks and Routes
 We used flask to make our website and had many app.routes to bring you to the new homepages
+## Usage of Jinja
+*create a navbar on the about us page so that when the user clicks on one of our names it takes us to the persons about us page rather than the groups.
 
 ## Map of Provided Code to AP CSA requirements
 [Computer Science Principlse Course Content description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a)
