@@ -2,8 +2,8 @@
 * Carter:18/20. I made a lot of progress within the dropdown menus. I have almost completed the code but I'm stuck on the animation of the button and when the user clicks the button the info doesnt drop down. Other than that I have almost completed my task for the week.
 * Sophie: 19/20 This week I finished the amjority of my tasks (adding pictures to all the files and updating the read me) but I am taking points off if myself because I wasnt able to help carter with the dropdown menu code that much. Although we did make some progress, I think that we could've done more and make it actually work. I also added on tasks by helping Mustafa with the about Del Norte page.
 * Mustafa: 18/20
-* Aditi:
-* Isai:
+* Aditi:19/20
+* Isai:19/20
 ## Scrum Grading week 8
 *Carter: 4/5 although the dropdown isnt completly finished, carter made a lot of progress and tried to fix all of the errors.
 * Sophie: 4/5 I finished all of my tasks this week as well as helped other finish their tasks.
