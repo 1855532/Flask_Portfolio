@@ -10,7 +10,31 @@
 * Mustafa: 3/5 Mustafa tried to finish his tasks but didn't really get a jumpstart until Friday so he wasnt able to complete his task.
 * Isai: 4/5 Isai finished her task but didnt really get started on it until the last day so thats why she got a point off.
 * Aditi: 4/5 Aditi experimented with Jinja but hasnt really gotten anything to work so thats why she gets a point off.
+## Week 8 assignments
 
+Aditi
+Incorporate Jinja 
+Create aboutsd.html and aboutdn.html files and format each file
+Add app routes to aboutsd.html and aboutdn.html files
+
+Sophie
+Add pictures into all About “...” pages
+Help Carter with Dropdown menu
+Update Readme file
+
+Yazhisai
+Create About San Diego Page
+Work on About San Diego: Restaurants, Tourist Spots, History, Landmarks
+
+Carter
+Dropdown menu
+Nav-Bar
+App routes for different websites
+
+Mustafa
+Create an about Del Norte Page
+Work on about Del Norte: Map, AP’s, schedule, clubs
+Figure out how to get rid of the rubber chicken on IntelliJ 
 
 # Link to GitHub Repository
 [Github Repository Link] (https://github.com/1855532/Flask_Portfolio/invitations)
