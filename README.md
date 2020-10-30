@@ -1,3 +1,17 @@
+## Self Grading
+* Carter:18/20. I made a lot of progress within the dropdown menus. I have almost completed the code but I'm stuck on the animation of the button and when the user clicks the button the info doesnt drop down. Other than that I have almost completed my task for the week.
+* Sophie: 19/20 This week I finished the amjority of my tasks (adding pictures to all the files and updating the read me) but I am taking points off if myself because I wasnt able to help carter with the dropdown menu code that much. Although we did make some progress, I think that we could've done more and make it actually work. I also added on tasks by helping Mustafa with the about Del Norte page.
+* Mustafa:
+* Aditi:
+* Isai:
+## Scrum Grading week 8
+*Carter: 4/5 although the dropdown isnt completly finished, carter made a lot of progress and tried to fix all of the errors.
+* Sophie: 4/5 I finished all of my tasks this week as well as helped other finish their tasks.
+* Mustafa: 3/5 Mustafa tried to finish his tasks but didn't really get a jumpstart until Friday so he wasnt able to complete his task.
+* Isai: 4/5 Isai finished her task but didnt really get started on it until the last day so thats why she got a point off.
+* Aditi: 4/5 Aditi experimented with Jinja but hasnt really gotten anything to work so thats why she gets a point off.
+
+
 # Link to GitHub Repository
 [Github Repository Link] (https://github.com/1855532/Flask_Portfolio/invitations)
 # One Minute Video Link
