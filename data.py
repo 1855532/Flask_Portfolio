@@ -41,7 +41,7 @@ def sophies_video():
     contributions = "Contribution to the Flask Portfolio project: My main contribution was the about us page. i figured out how to add pictures and organize this aspect of our project. I also helped with the main file and fugring out what to do when our dropdown button werent working."
     embed = "https://rap-name-generator.ryazhisai.repl.run"
     embed = "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit"
-    embed = "https://docs.google.com/document/d/1WJoegZAGEl1K1V009RWyaq_3G2YWkxJFKZuc3j_EarU/edit?usp=sharing"
+    gist = "https://gist.github.com/sophiebulkin/988be4313d8646b57134bbacdba65d4a.js"
     embed = "https://github.com/1855532/Flask_Portfolio.git"
     info = {"name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
     return info
