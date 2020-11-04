@@ -9,16 +9,31 @@ def home():
     return render_template("home.html")
 
 @app.route('/aboutus/')
-def journal():
+def aboutus():
     #Flask import uses Jinga to render HTML
     return render_template("aboutus.html")
 
-@app.route('/contents/')
+@app.route('/aboutus/aditi/')
+def aboutus():
+    #Flask import uses Jinga to render HTML
+    return render_template("aboutus.html")
+
+@app.route('/aboutus/carter/')
+def aboutus():
+    #Flask import uses Jinga to render HTML
+    return render_template("aboutus.html")
+
+@app.route('/aboutus/isai/')
+def aboutus():
+    #Flask import uses Jinga to render HTML
+    return render_template("aboutus.html")
+
+@app.route('/contents/mustafa/')
 def contents():
     #Flask import uses Jinga to render HTML
     return render_template("contents.html")
 
-@app.route('/aboutdn/')
+@app.route('/aboutdn/sophie/')
 def delnorte():
     #Flask import uses Jinga to render HTML
     return render_template("aboutdn.html")
