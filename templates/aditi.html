@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 {% extends aboutus.html %}
+
 <html lang="en">
+{% set name = data["name"] %}
+{% set grade = data["grade"] %}
+{% set about = data["about"] %}
+{% set contributions = data["contributions"] %}
 <head>
     <meta charset="UTF-8">
     <title>Aditi</title>
@@ -12,6 +17,6 @@
 <h5>{{grade}}</h5>
 <h5>{{about}}</h5>
 <h5>{{contributions}}</h5>
-{% end block %}
+{% endblock %}
 </body>
 </html>

@@ -1,10 +1,22 @@
 <!DOCTYPE html>
+{% extends aboutus.html %}
+
 <html lang="en">
+{% set name = data["name"] %}
+{% set grade = data["grade"] %}
+{% set about = data["about"] %}
+{% set contributions = data["contributions"] %}
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Sophie</title>
 </head>
 <body>
-
+<img src="{{ url_for('static', filename='IMG_3204.JPG') }}"width="320" height="442">
+{% block content %}
+<h5>{{name}}</h5>
+<h5>{{grade}}</h5>
+<h5>{{about}}</h5>
+<h5>{{contributions}}</h5>
+{% endblock %}
 </body>
 </html>

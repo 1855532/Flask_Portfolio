@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+import data
 #create a Flask instance
 app = Flask(__name__)
 
@@ -14,29 +15,29 @@ def aboutus():
     return render_template("aboutus.html")
 
 @app.route('/aboutus/aditi/')
-def aboutus():
+def aditi():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html")
+    return render_template("aboutus.html", data=data.aditis_video())
 
 @app.route('/aboutus/carter/')
-def aboutus():
+def carter():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html")
+    return render_template("aboutus.html", data=data.carters_video())
 
 @app.route('/aboutus/isai/')
-def aboutus():
+def isai():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html")
+    return render_template("aboutus.html", data=data.isais_video())
 
 @app.route('/contents/mustafa/')
-def contents():
+def mustafa():
     #Flask import uses Jinga to render HTML
-    return render_template("contents.html")
+    return render_template("contents.html", data=data.mustafas_video())
 
 @app.route('/aboutdn/sophie/')
-def delnorte():
+def sophie():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutdn.html")
+    return render_template("aboutdn.html", data=data.sophies_video())
 
 @app.route('/aboutsd/')
 def sandiego():
