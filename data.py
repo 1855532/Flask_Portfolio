@@ -39,7 +39,10 @@ def sophies_video():
     grade = "11th grade"
     about = "Hi! My name is Sophie Bulkin and I'm a junior at Del Norte High School! In these past two years, I have been in Mr.M's class learning about computer science and I can confidently say that I have learned a lot. I am so excited for the future of this class and the upcoming projects that we will work on! My favorite project so far has been the rap game project becasue I feel like we had a lot of freedom to choose what we did with our code in this project."
     contributions = "Contribution to the Flask Portfolio project: My main contribution was the about us page. i figured out how to add pictures and organize this aspect of our project. I also helped with the main file and fugring out what to do when our dropdown button werent working."
-    embed = "https://python-hello-series.jmort1021.repl.run"
+    embed = "https://rap-name-generator.ryazhisai.repl.run"
+    embed = "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit"
+    embed = "https://docs.google.com/document/d/1WJoegZAGEl1K1V009RWyaq_3G2YWkxJFKZuc3j_EarU/edit?usp=sharing"
+    embed = "https://github.com/1855532/Flask_Portfolio.git"
     info = {"name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
     return info
 
