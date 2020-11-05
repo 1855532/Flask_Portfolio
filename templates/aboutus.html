@@ -1,36 +1,65 @@
-<body>
-   <div class="col-9" >
-    <h1>About Us:</h1>
-  </div>
-  <div class="product" style="margin-top: 2%;">
-    <div class="row" style="padding: 10%; padding-top: 0%; padding-bottom: 5%;">  <div class="col-5" style="text-align: left;">
-          {% block content %}{% endblock %}
+{% set name = data["name"] %}
+{% set grade = data["grade"] %}
+{% set about = data["about"] %}
+{% set contributions = data["contributions"] %}
+{% set embed = data[embed] %}
 
-    </div>
-  </div>
-<body>
+<html>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="/aboutus/aditi/">Aditi</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="/aboutus/carter/">Carter</a>
+                    <a class="nav-link" href="/aboutus/isai/">Isai</a>
+                    <a class="nav-link" href="/aboutus/mustafa/">Mustafa</a>
+                    <a class="nav-link" href="/aboutus/sophie/" >Sophie</a>
+                </div>
+            </div>
+        </nav>
+    <div class="col-9" >
+        <h1>About Us:</h1>
+      </div>
+      <div class="product" style="margin-top: 2%;">
+        <div class="row" style="padding: 10%; padding-top: 0%; padding-bottom: 5%;">  <div class="col-5" style="text-align: left;">
 
-<script src="https://threejs.org/build/three.js"></script>
-    <script src="{{ url_for('static', filename='vanta.dots.min.js') }}"></script>
-    <script>
 
-    VANTA.DOTS({
-      el: "body",
-      mouseControls: true,
-      touchControls: true,
-      gyroControls: false,
-      minHeight: 2000.00,
-      minWidth: 800.00,
-      scale: 1.00,
-      scaleMobile: 1.00,
-      wingSpan: 40.0
-    })
-    </script>
 
-<style>
-        html, body {
-            margin: 0;
-            height: 100%;
-            color: white;
-        }
-</style>
+            <img src="{{ url_for('static', filename='IMG_3204.JPG') }}"width="320" height="442">
+            <h2>{{name}}</h2>
+            <h4>{{grade}}</h4>
+            <h4>{{about}}</h4>
+            <h4>{{contributions}}</h4>
+        </div>
+      </div>
+    <body>
+
+    <script src="https://threejs.org/build/three.js"></script>
+        <script src="{{ url_for('static', filename='vanta.dots.min.js') }}"></script>
+        <script>
+
+        VANTA.DOTS({
+          el: "body",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: false,
+          minHeight: 2000.00,
+          minWidth: 800.00,
+          scale: 1.00,
+          scaleMobile: 1.00,
+          wingSpan: 40.0
+        })
+        </script>
+
+    <style>
+            html, body {
+                margin: 0;
+                height: 100%;
+                color: white;
+            }
+    </style>
+    </body>
+</html>
