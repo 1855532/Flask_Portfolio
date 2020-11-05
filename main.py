@@ -19,27 +19,27 @@ def aboutus():
 @app.route('/aboutus/aditi/')
 def aditi():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.aditis_video())
+    return render_template("aditi.html", data=data.aditis_video())
 
 @app.route('/aboutus/carter/')
 def carter():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.carters_video())
+    return render_template("carter.html", data=data.carters_video())
 
 @app.route('/aboutus/isai/')
 def isai():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.isais_video())
+    return render_template("isai.html", data=data.isais_video())
 
 @app.route('/aboutus/mustafa/')
 def mustafa():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.mustafas_video())
+    return render_template("mustafa.html", data=data.mustafas_video())
 
 @app.route('/aboutus/sophie/')
 def sophie():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.sophies_video())
+    return render_template("sophie.html", data=data.sophies_video())
 
 @app.route('/contents/')
 def contents():
