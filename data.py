@@ -40,43 +40,6 @@ def sophies_video():
     about = "Hi! My name is Sophie Bulkin and I'm a junior at Del Norte High School! In these past two years, I have been in Mr.M's class learning about computer science and I can confidently say that I have learned a lot. I am so excited for the future of this class and the upcoming projects that we will work on! My favorite project so far has been the rap game project becasue I feel like we had a lot of freedom to choose what we did with our code in this project."
     contributions = "Contribution to the Flask Portfolio project: My main contribution was the about us page. i figured out how to add pictures and organize this aspect of our project. I also helped with the main file and fugring out what to do when our dropdown button werent working."
 
-   def planning():
-    greeting = "Rap Name Project"
-    name = "first project"
-    doa = "September-October"
-    job = "answer these questions..."
-    embed = "https://rap-name-generator.ryazhisai.repl.run"
-    info = {"greeting": greeting, "name": name,"doa": doa, "job": job,"embed":embed}
-    return info
-
-def planning():
-    greeting = "Sophie and Carters Journal"
-    name = "pairshare journal"
-    doa = "September-November"
-    job = "include daily tasks and accomplishments"
-    embed = "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit"
-    info = {"greeting": greeting, "name": name,"doa": doa, "job": job,"embed":embed}
-    return info
-
-    def planning():
-        greeting = "About us page"
-    name = "about us code"
-    doa = "Flask projet"
-    job = "HTML file"
-    gist = "https://gist.github.com/sophiebulkin/988be4313d8646b57134bbacdba65d4a.js"
-    info = {"greeting": greeting, "name": name,"doa": doa, "job": job,"embed":embed}
-    return info
-
-    def planning():
-        greeting = "Git Hub"
-    name = "git hub link"
-    doa = "all of tri one"
-    job = "include HTML, jinja, fundamentals, python, routes, passing data to HTML"
-    embed = "https://github.com/1855532/Flask_Portfolio.git"
-    info = {"greeting": greeting, "name": name,"doa": doa, "job": job,"embed":embed}
-    return info
-
-
 
 def alldata():
     return [aditis_video(), carters_video(), isais_video(), mustafas_video(), sophies_video()]
