@@ -14,7 +14,7 @@ def home():
 @app.route('/aboutus/')
 def aboutus():
     #Flask import uses Jinga to render HTML
-    return render_template("aboutus.html", data=data.aditis_video())
+    return render_template("aboutus.html", data=data.alldata())
 
 @app.route('/aboutus/aditi/')
 def aditi():
