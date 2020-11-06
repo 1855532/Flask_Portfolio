@@ -38,6 +38,18 @@ def mustafa():
 
 @app.route('/aboutus/sophie/')
 def sophie():
+    sophies = [
+        {
+            "name": "welcome",
+            "word": "code!"
+         },
+
+        {
+            "name":"sophie",
+            "word":"project"
+        },
+
+    ]
     #Flask import uses Jinga to render HTML
     return render_template("sophie.html", data=data.sophies_video())
 
