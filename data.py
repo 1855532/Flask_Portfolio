@@ -35,16 +35,30 @@ def mustafas_video():
     return info
 
 def sophies_video():
+    greeting= "Hi!"
     name = "Sophie Bulkin"
     grade = "11th grade"
-    about = "Hi! My name is Sophie Bulkin and I'm a junior at Del Norte High School! In these past two years, I have been in Mr.M's class learning about computer science and I can confidently say that I have learned a lot. I am so excited for the future of this class and the upcoming projects that we will work on! My favorite project so far has been the rap game project becasue I feel like we had a lot of freedom to choose what we did with our code in this project."
-    contributions = "Contribution to the Flask Portfolio project: My main contribution was the about us page. i figured out how to add pictures and organize this aspect of our project. I also helped with the main file and fugring out what to do when our dropdown button werent working."
-    embed = "https://python-hello-series.jmort1021.repl.run"
-    info = {"name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
+    about = "Hello! I am Sophie and I am an eleventh grader at Del Norte. I took a  Computer Science class last year with Mr.M and it has been a very fun experience. I have learned different types of coding from basic Python fundamentals to .html. I hope to further improve from here. My main contribution has been to the about us page and I have worked on fixing the dropdown button."
+    contributions = "Contribution to the Flask Portfolio project: I added all of the pictures in the website, worked on the Jinja with Aditi, and helped Carter with the dropdown menu. I also updated the readme file and helped Mustafa finish the about san diego page."
+    embed = "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit?usp=sharing"
+    info = {"greeting": greeting, "name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
     return info
 
+def journal():
+    greeting="Here is my journal!"
+    name= "Google Doc"
+    about= "this is where I log my daily activites and accomplishments"
+    contributions = "I contribute to this everyday because I add my activities"
+    embed= "https://docs.google.com/document/d/1RatYt0V-7duqtM0YuP8SuM_X90_fCG4qy2-H8HeBHvU/edit?usp=sharing"
+    info = {"greeting": greeting, "name": name, "about": about, "contributions": contributions, "embed": embed}
+    return info
+
+
+
+
+
 def alldata():
-    return [aditis_video(), carters_video(), isais_video(), mustafas_video(), sophies_video()]
+    return [aditis_video(), carters_video(), isais_video(), mustafas_video(), sophies_video(),journal()]
 
 #Data "setup" for Projects
 #next step would be to extract project data from a database
