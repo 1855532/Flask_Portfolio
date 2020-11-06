@@ -93,9 +93,16 @@ def sdrestaurant():
     #Flask import uses Jinga to render HTML
     return render_template("sdrestaurant.html")
 
+@app.route('/aboutsd/feedback/')
+def sdfeedback():
+    #Flask import uses Jinga to render HTML
+    return render_template("sdfeedback.html")
+
+
 @app.route("/project/journal")
 def journal_route():
     return render_template("sophie.html", data=data.journal())
+
 
 if __name__ == "__main__":
     #runs the application on the repl development server
