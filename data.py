@@ -3,7 +3,7 @@ def aditis_video():
     grade = "11th grade"
     about = "Hello! I am Aditi and I am a Junior at Del Norte. I love animals, travel, and science. This is my first year in Mr. M's class and I am learning so much about Python and html files! I look forward to learning more about computers and programming."
     contributions = "Contribution to the Flask Portfolio project: I created the about us page and formatted it. Along with Carter, I created a Navbar and added all the links. I also formatted the home page and added all the links to the projects, repl.its and resources."
-    embed = "https://python-hello-series.jmort1021.repl.run"
+    embed = "https://docs.google.com/document/d/16KCrGRWoCMhvJ_rCrNne9bVYG0nbg5ySihLXvRXlXuk/edit?usp=sharing"
     info = {"name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
     return info
 

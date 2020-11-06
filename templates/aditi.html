@@ -7,6 +7,10 @@
 <h4>{{grade}}</h4>
 <h4>{{about}}</h4>
 <h4>{{contributions}}</h4>
-{{embed}}
+{% if 'embed' in data %}
+<div class="embed-responsive embed-responsive-4by3">
+    <iframe class="embed-responsive-item" src={{embed}}></iframe>
+</div>
+{% endif %}
 {% endblock %}
 </html>
