@@ -17,7 +17,7 @@ Python command of fundementals
 * Dictionary- A dictionary has a set of keys and each key has a single associated value.
 * Variables- variables are names used to hold one or more values. Instead of repeating these values in multiple places in your code, the variable holds the results of a calculation, database call, results of a database query, or other value.
 
-Tools
+## Tools
 * IntelliJ- IntelliJ is the server which we downloaded to make coding moe efficient
 * Github- Github is where we share code and access eachothers progress
 ## Self Grading
