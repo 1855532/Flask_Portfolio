@@ -1,3 +1,25 @@
+##Individual Mastery (Sophie)
+Front end- HTML, Jinja, Templates
+* HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
+* Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
+
+* Templates- An example of a template that we used in this project was bootstrap. 
+
+
+Back end- Python, Routes, Passing data to HTML
+* Python- Python is the language that we coded our Flask Project in
+* Routes-  if we visit the particular URL mapped to some particular function, the output of that function is rendered on the browser's screen.
+* Passing Data to HTML- When you use app routes to route information from one flie to another. In this project we passed data from the main.py file to the html files
+
+Python command of fundementals
+* Loops- a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. 
+* Lists- A list is a number of items in an ordered or unordered structure. A list can be used for a number of things like storing items or deleting and adding items. 
+* Dictionary- A dictionary has a set of keys and each key has a single associated value.
+* Variables- variables are names used to hold one or more values. Instead of repeating these values in multiple places in your code, the variable holds the results of a calculation, database call, results of a database query, or other value.
+
+Tools
+* IntelliJ- IntelliJ is the server which we downloaded to make coding moe efficient
+* Github- Github is where we share code and access eachothers progress
 ## Self Grading
 * Carter:18/20. I made a lot of progress within the dropdown menus. I have almost completed the code but I'm stuck on the animation of the button and when the user clicks the button the info doesnt drop down. Other than that I have almost completed my task for the week.
 * Sophie: 18/20 This week I finished the amjority of my tasks (adding pictures to all the files and updating the read me) but I am taking points off if myself because I wasnt able to help carter with the dropdown menu code that much. Although we did make some progress, I think that we could've done more and make it actually work. I also added on tasks by helping Mustafa with the about Del Norte page.
