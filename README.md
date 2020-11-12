@@ -1,4 +1,4 @@
-##Individual Mastery (Sophie)
+## Individual Mastery (Sophie)
 Front end- HTML, Jinja, Templates
 * HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
 * Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
