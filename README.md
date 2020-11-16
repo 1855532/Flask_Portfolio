@@ -1,3 +1,22 @@
+## Final Project Self Grading
+* Sophie
+
+* Carter
+
+* Scrum Master Comment:
+* Mustafa
+
+* Scrum Master Comment:
+* Isai
+
+* Scrum Master Comment:
+* Aditi
+
+* Scrum Master Comment:
+
+
+
+
 ## Individual Mastery (Sophie)
 Front end- HTML, Jinja, Templates
 * HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
