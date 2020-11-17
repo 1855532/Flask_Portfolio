@@ -1,4 +1,25 @@
-##Individual Mastery (Sophie)
+## Final Project Self Grading
+* Sophie
+*  
+
+
+* Carter
+
+* Scrum Master Comment: Throughout the majority of the project, Carter was trying to figure out how to make the dropdown menu work. Although this was a challenge for him, he figured out how to do it (with the help of others) and then stepped up to be the integration person in our team
+* Mustafa
+
+* Scrum Master Comment: Mustafa has progressed a lot throughout the trimester. In the beginning, he didn't do much but lately he has really stepped up and taken his fair share o the work by doing the about Del Norte page. I think he has made the most progress in recent weeks. 
+* Isai
+
+* Scrum Master Comment: Isai was probably the MVP of the rap generator project because she figured out how to make the names appear at the end after answering all of the questions. In addition, she made the about San Diego page which features Jinja and many other important aspects of the code. I think that Isai has done a very good job this trimester.
+* Aditi
+
+* Scrum Master Comment: I think that Aditi took on a majority of the responsibility throughout the trimester. I think that her main contribution was learning how to use Jinja and then explaining it to the group. We had been struggling with it for a while and the fact that she took time to learn it showed a lot of dedication to our project. 
+
+
+
+
+## Individual Mastery (Sophie)
 Front end- HTML, Jinja, Templates
 * HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
 * Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
@@ -17,7 +38,7 @@ Python command of fundementals
 * Dictionary- A dictionary has a set of keys and each key has a single associated value.
 * Variables- variables are names used to hold one or more values. Instead of repeating these values in multiple places in your code, the variable holds the results of a calculation, database call, results of a database query, or other value.
 
-Tools
+## Tools
 * IntelliJ- IntelliJ is the server which we downloaded to make coding moe efficient
 * Github- Github is where we share code and access eachothers progress
 ## Self Grading
