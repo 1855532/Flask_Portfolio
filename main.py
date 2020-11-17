@@ -53,10 +53,25 @@ def sophie():
     #Flask import uses Jinga to render HTML
     return render_template("sophie.html", data=data.sophies_video())
 
-@app.route('/contents/')
-def contents():
+
+@app.route('/aboutdn/map/')
+def dnmap():
     #Flask import uses Jinga to render HTML
-    return render_template("contents.html")
+    return render_template("dnmap.html")
+@app.route('/aboutdn/clubs/')
+def dnclubs():
+    #Flask import uses Jinga to render HTML
+    return render_template("dnclubs.html")
+
+@app.route('/aboutdn/schedule/')
+def dnschedule():
+    #Flask import uses Jinga to render HTML
+    return render_template("dnschedule.html")
+
+@app.route('/aboutdn/sports/')
+def dnsports():
+    #Flask import uses Jinga to render HTML
+    return render_template("dnsports.html")
 
 @app.route('/aboutdn/')
 def aboutdn():
