@@ -1,23 +1,7 @@
-## Final Project Self Grading
-* Sophie
-*  
-
-
-* Carter
-
-* Scrum Master Comment: Throughout the majority of the project, Carter was trying to figure out how to make the dropdown menu work. Although this was a challenge for him, he figured out how to do it (with the help of others) and then stepped up to be the integration person in our team
-* Mustafa
-
-* Scrum Master Comment: Mustafa has progressed a lot throughout the trimester. In the beginning, he didn't do much but lately he has really stepped up and taken his fair share o the work by doing the about Del Norte page. I think he has made the most progress in recent weeks. 
-* Isai
-
-* Scrum Master Comment: Isai was probably the MVP of the rap generator project because she figured out how to make the names appear at the end after answering all of the questions. In addition, she made the about San Diego page which features Jinja and many other important aspects of the code. I think that Isai has done a very good job this trimester.
-* Aditi
-
-* Scrum Master Comment: I think that Aditi took on a majority of the responsibility throughout the trimester. I think that her main contribution was learning how to use Jinja and then explaining it to the group. We had been struggling with it for a while and the fact that she took time to learn it showed a lot of dedication to our project. 
-
-
-
+## Final self grading project
+* weekly TODO's
+(https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+* Links to comments or other online materials: 
 
 ## Individual Mastery (Sophie)
 Front end- HTML, Jinja, Templates
