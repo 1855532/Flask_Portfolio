@@ -1,7 +1,12 @@
 ## Final self grading project
-* weekly TODO's
+* weekly TODO's and self grading
 (https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
 * Links to comments or other online materials: 
+https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
+
+## Creativity and Intangibles 
+I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievments this trimester as well as had descriptions about ourselves. The one minute video guides you through the project and tells you what we learned during this tri and how it was implemented into our project. I think that this aspect of our project make it stand out from the rest because it allows the viewer to understand the code behind the actual website they are seeing as well as get a look at the people who created it!
+
 
 ## Individual Mastery (Sophie)
 Front end- HTML, Jinja, Templates
