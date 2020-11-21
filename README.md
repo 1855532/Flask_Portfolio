@@ -5,7 +5,7 @@
 https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
 
 ## Creativity and Intangibles 
-I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievments this trimester as well as had descriptions about ourselves. The one minute video guides you through the project and tells you what we learned during this tri and how it was implemented into our project. I think that this aspect of our project make it stand out from the rest because it allows the viewer to understand the code behind the actual website they are seeing as well as get a look at the people who created it!
+I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievements this trimester as well as descriptions of ourselves. This part of the Flask portfolio allows users to not only experience the website, but get a deeper look at the creators behind the project. It allows for users to put a face behind the names and also see what each creator contributed to the project.
 
 
 ## Individual Mastery (Sophie)
