@@ -1,7 +1,7 @@
 ## Final self grading project
-* weekly TODO's and self grading
+* [weekly TODO's and self grading]
 (https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
-* Links to comments or other online materials: 
+* [Links to comments or other online materials:]
 https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
 
 ## Creativity and Intangibles 
