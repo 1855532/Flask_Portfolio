@@ -28,8 +28,8 @@ def isais_video():
 def mustafas_video():
     name = "Mustafa Sharaf"
     grade = "11th grade"
-    about = "Hello everyone! My name is Mustafa Sharaf, I'm in 11th grade, and I go to Del Norte High School! This is my first time taking a coding class, besides taking coding classes in boot camps. I love learning about new types of code that makes code run faster. My favorite project has been the Rap Name Generator, it was fun to experiment with different types of code in order to display the options in the sub menus."
-    contributions = "Contribution to the Flask Portfolio project:I have created and finished a new README.md file for the project,I have organized and cut down the code, and I will work on the comments in the code for users to get a better understanding of code."
+    about = "I'm a student at Del Norte High School. I'm 16 years old. My favorite sports are basketball and swimming. I took this class so I could become knowledgeable when it comes to code, just like my dad."
+    contributions = "Contribution to the Flask Portfolio project:I have created and finished a new README.md file for the project,I have organized and cut down the code, and I will work on the comments in the code for users to get a better understanding of code.I've been organizing and I've coded on Intellij multiple times for the README.html, this html, and a little bit on aboutdelnorte"
     embed = "https://python-hello-series.jmort1021.repl.run"
     info = {"name": name, "grade": grade, "about": about, "contributions": contributions, "embed": embed}
     return info

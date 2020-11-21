@@ -3,6 +3,7 @@
 {% set about = data["about"] %}
 {% set contributions = data["contributions"] %}
 {% set embed = data[embed] %}
+<!-- use of Jinja Templates to make use of less code and make it more efficient-->
 <!DOCTYPE html>
 <html lang="en">
     <body>
@@ -17,6 +18,8 @@
                     <a class="nav-link" href="/aboutus/isai/">Isai</a>
                     <a class="nav-link" href="/aboutus/mustafa/">Mustafa</a>
                     <a class="nav-link" href="/aboutus/sophie/" >Sophie</a>
+                    <!--allows users to learn about each person-->
+                    <!-- navbar to make it easier for users to navigate from one person to the next-->
                 </div>
             </div>
         </nav>
@@ -27,15 +30,18 @@
         <div class="row" style="padding: 10%; padding-top: 0%; padding-bottom: 5%;">  <div class="col-5" style="text-align: left;">
             <h4>Click on each person's name to access their individual video and learn more about them</h4>
             {% block individual %}{% endblock %}
+            <!-- code for how each person's about us page is goign to be spaced and organized-->
         </div>
       </div>
     <body>
-
+<!--underneath provides the code for the theme used in each about us page- vanta.dots; this also makes use of java script-->
     <script src="https://threejs.org/build/three.js"></script>
         <script src="{{ url_for('static', filename='vanta.dots.min.js') }}"></script>
         <script>
 
-        VANTA.DOTS({
+
+
+     VANTA.DOTS({
           el: "body",
           mouseControls: true,
           touchControls: true,

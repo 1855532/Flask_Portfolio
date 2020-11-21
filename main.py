@@ -11,6 +11,11 @@ def home():
     #Flask import uses Jinga to render HTML
     return render_template("home.html")
 
+@app.route('/contents/')
+def contents():
+    #Flask import uses Jinga to render HTML
+    return render_template("contents.html", data=data.alldata())
+
 @app.route('/aboutus/')
 def aboutus():
     #Flask import uses Jinga to render HTML
