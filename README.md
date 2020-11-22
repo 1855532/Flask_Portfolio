@@ -1,5 +1,15 @@
+## Final Project Links
+* [Raspberry Pi Link](http://107.200.91.165:5000/)
+
+* [GitHub Repository Link](https://github.com/aditiakella/Flask_Portfolio.git)
+
+* [Night at the Museum Link]
+
+* [One Minute Explanation Video](https://drive.google.com/file/d/1xwdI6g1s4PzRcORxIpCJNbdLk-hz1GHe/view?usp=sharing)
+
+
 ## Final self grading project
-* [weekly TODO's and self grading](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+* [Weekly TODO's and self grading](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
 * [Links to comments or other online materials](https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing)
 
 ## Creativity and Intangibles 
