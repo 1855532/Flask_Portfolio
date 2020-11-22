@@ -1,14 +1,36 @@
 ## Final self grading project
-* [weekly TODO's and self grading]
+* [Weekly TODO's and Self Grading]
 (https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
-* [Links to comments or other online materials:]
+* [Links to Online Resources Used:]
 https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
-
+* all code is also commented to show purpose of each part of code
+## Overview of Code
+Here is overview of files for the "Flask Portfolio":
+* home.html: main page of flask website, bootstrap navbar, buttons with links to project scope and repl.it for each project, large image at top for aesthetics
+* main.py: contains app routes which assign links to variables; in this case, each webpage
+* contents.html: contains basic information about projects included in the Flask website
+* aboutus.html: use of Jinja and code for making navigation easier for user
+    * ____.html: use of Jinja and embedding artifacts to show evidence of learning
+* data.py: defined variables for each person's about us page
+* aboutdn.html: consists of a navbar from bootstrap,welcoming, and nighthawk logo
+    * dnclubs: embedded link to pdf of all clubs on campus, general description of variety of clubs
+    * dnsports: embedded athletic calendar and guidebook, general description of timeline and rules to play
+    * dnschedule: image of vl schedule, general description of vl circumstances
+    * dnmap: image of map, general description of layout of school
+    * NAV BAR FROM ABOUTDN PRESENT IN ALL DN FILES
+* aboutsd.html: consists of navbar from bootstrap, welcoming, and instructions on how to use it
+    * sdhistory.html: large picture of San Diego in the olden days, general history of San Diego
+    * sdlandmarks.html: images of different landmarks, general description of each one
+    * sdrestaurant.html: images of different restaurants, general description of each restaurant
+    * sdtourist.html: images of different tourist spots, general descriptions of each
+    * sdfeedback.html: feedback form for users to fill in basic personal information and submit any concerns
+    * NAVBAR FROM ABOUTSD PRESENT IN ALL SD FILES
+    
 ## Creativity and Intangibles 
-I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievements this trimester as well as descriptions of ourselves. This part of the Flask portfolio allows users to not only experience the website, but get a deeper look at the creators behind the project. It allows for users to put a face behind the names and also see what each creator contributed to the project.
+The most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievements this trimester as well as descriptions of ourselves. This part of the Flask portfolio allows users to not only experience the website, but get a deeper look at the creators behind the project. It allows for users to put a face behind the names and also see what each creator contributed to the project.
 
 
-## Individual Mastery (Sophie)
+## Mastery
 Front end- HTML, Jinja, Templates
 * HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
 * Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
@@ -21,7 +43,7 @@ Back end- Python, Routes, Passing data to HTML
 * Routes-  if we visit the particular URL mapped to some particular function, the output of that function is rendered on the browser's screen.
 * Passing Data to HTML- When you use app routes to route information from one flie to another. In this project we passed data from the main.py file to the html files
 
-Python command of fundementals
+Python command of fundamentals
 * Loops- a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. 
 * Lists- A list is a number of items in an ordered or unordered structure. A list can be used for a number of things like storing items or deleting and adding items. 
 * Dictionary- A dictionary has a set of keys and each key has a single associated value.
@@ -30,43 +52,10 @@ Python command of fundementals
 ## Tools
 * IntelliJ- IntelliJ is the server which we downloaded to make coding moe efficient
 * Github- Github is where we share code and access eachothers progress
-## Self Grading
-* Carter:18/20. I made a lot of progress within the dropdown menus. I have almost completed the code but I'm stuck on the animation of the button and when the user clicks the button the info doesnt drop down. Other than that I have almost completed my task for the week.
-* Sophie: 18/20 This week I finished the amjority of my tasks (adding pictures to all the files and updating the read me) but I am taking points off if myself because I wasnt able to help carter with the dropdown menu code that much. Although we did make some progress, I think that we could've done more and make it actually work. I also added on tasks by helping Mustafa with the about Del Norte page.
-* Mustafa: 18/20. I feel as though I really stepped up this week. I basically gotten the about del norte file completed. I got the chance to do some actual coding this week and I'm very pleased with myself. The only reason I took 2 points off was because I didn't really work on the rubber chicken.
-* Aditi: 18/20. I spent a lot of time and effort to incorporate Jinja. However, I kept running into errors. However, my main goals were to get the About Del Norte Page and the About San Diego page started with new app routes and a skeleton of the website. I completed both of these goals and additionally, I finished the San Diego Landmarks page. 
-* Isai:18/20 I spent a lot of time formatting the entire About San Diego page. It was virtually like I created an entire website on my own. The hardest part for me was the images. I had to work on sizing and formatting so that the text and the images were in the correct way. It took me a lot of time to experiment and try to work out everything. I did everything on the About San Diego homepage, San Diego Restaurants, San Diego Tourist spots, and San Diego History. I also worked hard on doing the research for these pages.
-## Scrum Grading week 8
-* Carter: 4/5 although the dropdown isnt completly finished, carter made a lot of progress and tried to fix all of the errors.
-* Sophie: 4/5 I finished all of my tasks this week as well as helped other finish their tasks.
-* Mustafa: 3/5 Mustafa tried to finish his tasks but didn't really get a jumpstart until Friday so he wasnt able to complete his task.
-* Isai: 4/5 Isai finished her task but she went slower than expected so that's why she lost a point.
-* Aditi: 4/5 Aditi experimented with Jinja but hasnt really gotten anything to work so thats why she gets a point off.
-## Week 8 assignments
 
-Aditi
-Incorporate Jinja 
-Create aboutsd.html and aboutdn.html files and format each file
-Add app routes to aboutsd.html and aboutdn.html files
 
-Sophie
-Add pictures into all About “...” pages
-Help Carter with Dropdown menu
-Update Readme file
 
-Yazhisai
-Create About San Diego Page
-Work on About San Diego: Home Page,Restaurants, Tourist Spots, History
 
-Carter
-Dropdown menu
-Nav-Bar
-App routes for different websites
-
-Mustafa
-Create an about Del Norte Page
-Work on about Del Norte: Map, AP’s, schedule, clubs
-Figure out how to get rid of the rubber chicken on IntelliJ 
 
 # Link to GitHub Repository
 [Github Repository Link] (https://github.com/1855532/Flask_Portfolio/invitations)
@@ -81,27 +70,6 @@ Figure out how to get rid of the rubber chicken on IntelliJ
  This group website will be a reflection of our work over the trimester and it will contain all projects from this trimester. This website is meant to be a user friendly interface to our group's work in Computer Science. This is our first website that shows our progress throughout the year. It is similar to a Canvas page, which was our goal.
 
 
-# Purpose (AP CSP Flask Portfolio)
-* Foundation in social media using Slack, Padlet and Zoom
-* To organize information not only about the code, but also about the group. 
-* Foundation in Python Code using GitHub
-* Understanding how to create and organzie a website or canvas using Python and .html
-* Create a clear and simple program that allows users to be able to experience and learn more about the group's projects 
-
-
-## Overview of Code
-Here is overview of files for the "Flask Portfolio":
-* Templates: consists of main.html, About Us sub menu, and the group’s journals. In the About us page, we had to code the images by defining the img src and filename. 
-* Home.html: Purpose is to display the home page of the website as well as consisting of multiple sub menus and previous code. The code works through the navigation system that takes the user to the appropriate site (journal, rap name generator, or the project plan). The main.html also adjusts the text and size of certain parts of the site. A bootstrap template was used for the navbar within the project.
-* About Us: Purpose is to display information about the group members and their contributions to the project. It uses image search and urls in order to display pictures of each group member. 
-* Contents: Link in the navbar/website that brings the user to a page giving an overview of what is contained within our website.
-
-# What We All Did
-Sophie: For this project, I was assigned to do the about us page. for the about us page, I did the layout and added the pictures. 
-Carter: I worked on the navbar and the app routes for the different links within our html project. At first this seemed like a tough task but with some help I was able to complete it.
-Mustafa: I finished a large majority of the README file and I filled out the aboutus section. I cleaned up the code, mainly in the templates. Finishing the README helped me better understand the code.
-Yazhisai: I experimented a lot with how to add backgrounds. At first, I thought we could use ascii art for the background. However, I realized that .html tries to conserve as much space as possible so this wasn't a viable option. I inserted an image at the top of the website that fitted the aesthetics of the website and sized it to fit correctly. I also added a file "Contents of Our Website" that outlines everything in the website for users.
-Aditi: I created the about us page and formatted it. Along with Carter, I created a Navbar and added all the links. I also formatted the home page and added all the links to the projects, repl.its and resources.
  
 ##  Usage of GitHub
 We used GitHub to share our code and make adjustments without risking our main file. 
@@ -111,9 +79,9 @@ We initially downloaded intelliJ because Repl.it was causing problems. We downlo
 We used flask to make our website and had many app.routes to bring you to the new homepages
 
 ## Usage of Jinja
-*create a navbar on the about us page so that when the user clicks on one of our names it takes us to the persons about us page rather than the groups.
+* template to create each about___.html page
 ## Map of Provided Code to AP CSA requirements
-[Computer Science Principlse Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a)
+[Computer Science Principles Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a)
 
 
 
