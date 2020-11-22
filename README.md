@@ -1,6 +1,7 @@
 
 ## Final Links
 * [Self Grading Google Doc](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+    * Click on the above link and use the table of contents to navigate through the self grading. This document has self grading, peer feedback, scrum master feedback, MVP selections, weekly TODO's, group grading, and evidence of collaboration. 
 * [Raspberry Pi Link](http://107.200.91.165:5000/)
 
 * [GitHub Repository Link](https://github.com/aditiakella/Flask_Portfolio.git)
