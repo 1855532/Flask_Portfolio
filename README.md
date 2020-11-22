@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/
 ## Overview of Code
 Here is overview of files for the "Flask Portfolio":
 * home.html: main page of flask website, bootstrap navbar, buttons with links to project scope and repl.it for each project, large image at top for aesthetics
-* main.py: contains app routes which assign links to variables; in this case, each webpage
+* main.py: contains app routes which assign pathways; in this case, each webpage
 * contents.html: contains basic information about projects included in the Flask website
 * aboutus.html: use of Jinja and code for making navigation easier for user
     * ____.html: use of Jinja and embedding artifacts to show evidence of learning
@@ -32,7 +32,7 @@ The most unique feature of our project that should be highlighted is the About U
 
 ## Mastery
 Front end- HTML, Jinja, Templates
-* HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
+* HTML- HTML describes the structure of a webpage and its elements tell the browser (or website) how to display the content
 * Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
 
 * Templates- An example of a template that we used in this project was bootstrap. 
