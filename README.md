@@ -6,7 +6,7 @@
 I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievements this trimester as well as descriptions of ourselves. This part of the Flask portfolio allows users to not only experience the website, but get a deeper look at the creators behind the project. It allows for users to put a face behind the names and also see what each creator contributed to the project.
 
 
-## Individual Mastery (Sophie)
+## Individual Mastery (All of us understand the concepts listed below)
 Front end- HTML, Jinja, Templates
 * HTML- HTML describs the structure of a webpage and its elements tell the browser (or website) how to display the content
 * Jinja- Jinja is a template for Flask. It's a framework that allows you to write your web applications quickly and efficiently 
