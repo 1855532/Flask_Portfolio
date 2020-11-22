@@ -1,8 +1,8 @@
+## [Self Grading Google Doc](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+## Final Links
 ## Final self grading project
-* [Weekly TODO's and Self Grading]
-(https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
-* [Links to Online Resources Used:]
-https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
+* [Weekly TODO's and Self Grading](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+* [Links to Online Resources Used](https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing)
 * all code is also commented to show purpose of each part of code
 ## Overview of Code
 Here is overview of files for the "Flask Portfolio":
