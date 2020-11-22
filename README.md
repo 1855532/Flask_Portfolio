@@ -1,5 +1,6 @@
-## [Self Grading Google Doc](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+
 ## Final Links
+* [Self Grading Google Doc](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
 * [Raspberry Pi Link](http://107.200.91.165:5000/)
 
 * [GitHub Repository Link](https://github.com/aditiakella/Flask_Portfolio.git)
@@ -66,7 +67,7 @@ Python command of fundamentals
 # Link to GitHub Repository
 [Github Repository Link] (https://github.com/1855532/Flask_Portfolio/invitations)
 # One Minute Video Link
-[One Minute Video Link] (https://drive.google.com/file/d/1xwdI6g1s4PzRcORxIpCJNbdLk-hz1GHe/view?usp=sharing)
+
 # Instructions on Operating our Website
 * Click the run button and click on the icon that will open the website in a new tab
 * Next, Explore the navigation bar on which we have linked our journals, About Us page, and Contents of Our Website page.
