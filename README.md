@@ -1,8 +1,6 @@
 ## Final self grading project
-* [weekly TODO's and self grading]
-(https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
-* [Links to comments or other online materials:]
-https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing
+* [weekly TODO's and self grading](https://docs.google.com/document/d/1vtITMYkZ187jyhb8SKm0TCy7zE6V5hX_I1v7qYoonfQ/edit?usp=sharing)
+* [Links to comments or other online materials](https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing)
 
 ## Creativity and Intangibles 
 I think that the most unique feature of our project that should be highlighted is the About Us page. In this part of the project, we embedded pictures of ourselves and our achievements this trimester as well as descriptions of ourselves. This part of the Flask portfolio allows users to not only experience the website, but get a deeper look at the creators behind the project. It allows for users to put a face behind the names and also see what each creator contributed to the project.
