@@ -11,6 +11,7 @@
 * [Two Minute Explanation Video (creative supplement)](https://drive.google.com/file/d/1ciD4gnTIcOilLWbCWsot7vuUzn_iX2G3/view?usp=sharing)
 
 * [Links to Online Resources Used](https://docs.google.com/document/d/1TrZm3bm79y3q8ljk1iNDpy-pxuR8tJrSV40HXL3KW1o/edit?usp=sharing)
+    * The above link contains the resources used by each creator to work on the Project.
 * all code is also commented to show purpose of each part of code
 ## Overview of Code
 Here is overview of files for the "Flask Portfolio":
