@@ -6,7 +6,7 @@
 
 * [GitHub Repository Link](https://github.com/aditiakella/Flask_Portfolio.git)
 
-* [Night at the Museum Link](https://127.0.0.1:5002/period2/)
+* [Night at the Museum Link](http://ntm.nighthawkcoders.cf/period2/)
 
 * [Two Minute Explanation Video (creative supplement)](https://drive.google.com/file/d/1ciD4gnTIcOilLWbCWsot7vuUzn_iX2G3/view?usp=sharing)
 
